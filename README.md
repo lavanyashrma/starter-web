@@ -1,11 +1,12 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
-##Introduction
+This repository is for showing how Git and GitHub work, okay.
 
-Im Sonam
+## Introduction
 
-##DEPLOYMENT
+Im Sonam. an example tp show different parts of git.
+
+## DEPLOYMENT
 SAVE AND CLOSE
 
 ## Purpose
