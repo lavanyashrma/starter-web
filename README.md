@@ -7,7 +7,7 @@ This repository is for showing how Git and GitHub work, okay.
 Im Sonam. an example tp show different parts of git.
 
 ## DEPLOYMENT
-SAVE AND CLOSE
+after deploying it, SAVE AND CLOSE
 
 ## Purpose
 
