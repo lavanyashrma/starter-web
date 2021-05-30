@@ -13,3 +13,7 @@ after deploying it, SAVE AND CLOSE
 
 Sample website with plenty of files for demos. BYE
 ALVIDA.
+
+## Copyright
+
+Git.Training 2015 rights
