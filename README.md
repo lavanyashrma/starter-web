@@ -11,4 +11,5 @@ after deploying it, SAVE AND CLOSE
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. BYE
+ALVIDA.
