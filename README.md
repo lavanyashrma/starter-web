@@ -21,4 +21,4 @@ Git.Training 2015 rights
 ## Automatic merge
 
 some changes
-TEAM manish
+TEAM manish appreciated sonam today. (Rebase example)
